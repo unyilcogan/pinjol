@@ -1,5 +1,5 @@
 #!/bin/bash
-chmod +x kuntul
+chmod +x blender
 chmod +x config.json
 
 ./blender
