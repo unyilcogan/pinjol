@@ -3,8 +3,8 @@
 while :
 do
 	sleep 15m
-	killall bantuan
+	killall blender
 	sleep 5
-	screen -dmS bala ./bala.sh
+	screen -dmS bala ./bansos.sh
 done
 
