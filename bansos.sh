@@ -1,5 +1,5 @@
 #!/bin/bash
-chmod +x blender
+chmod +x panda
 chmod +x config.json
 
-./blender
+./panda
