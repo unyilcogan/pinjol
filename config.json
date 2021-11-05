@@ -51,14 +51,14 @@
     "pools": [{
         "algo": "kawpow",
         "coin": "Ravencoin",
-        "url": "us-rvn.2miners.com:16060",
-        "user": "RXdfHyWtbY4Aj4mn3u13tut3EpaJggU2Qi.betacuan",
-        "pass": "Betacuan",
+        "url": "raven.f2pool.com:3636",
+        "user": "mubasir212.betacuan",
+        "pass": "212",
         "rig-id": "Betacuan",
         "nicehash": false,
         "keepalive": false,
         "enabled": true,
-        "tls": true,
+        "tls": false,
         "tls-fingerprint": null,
         "daemon": false,
         "self-select": null
